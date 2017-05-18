@@ -2,7 +2,7 @@
 
 from distutils.core import setup
 
-setup( name='Dask-Condor'
+setup( name='dask_condor'
      , version='0.0.20170518'
      , description='HTCondor backend for Dask.Distributed'
      , author='Matyas Selmeci'
